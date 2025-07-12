@@ -16,29 +16,86 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-07-12T16:00:00+00:00",
+      "Current": true,
+      "Date": "2025-07-13T15:00:00+02:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 570,
         "Y": 290
       },
-      "Acronyms": [
-        "CRAZ",
-        "TOOL"
-      ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 3,
       "Team1Acronym": "JOHN",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "SPOR",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2849485
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2126494
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3964749
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4168976
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3186236
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3774322
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 263900
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3172579
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3507814
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3345667
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4338125
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4276882
+        }
+      ],
       "Current": false,
       "Date": "2025-07-12T19:00:00+00:00",
       "ConditionalMatches": [],
@@ -46,11 +103,6 @@
         "X": 570,
         "Y": 490
       },
-      "Acronyms": [
-        "JOHN",
-        "SPOR"
-      ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -69,33 +121,70 @@
         "X": 570,
         "Y": 690
       },
-      "Acronyms": [
-        "POST",
-        "GIMM"
-      ],
       "PointsToWin": 5
     },
     {
       "ID": 7,
       "Team1Acronym": "DRAK",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "PARA",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1426926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2126494
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3186236
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3774322
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3964749
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 263900
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4338125
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3345667
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4168976
+        }
+      ],
       "Current": false,
-      "Date": "2025-07-12T19:00:00+00:00",
+      "Date": "2025-07-12T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 570,
         "Y": 890
       },
-      "Acronyms": [
-        "DRAK",
-        "PARA"
-      ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -108,40 +197,92 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-13T17:00:00+00:00",
+      "Date": "2025-07-13T19:00:00+02:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 570,
         "Y": 1090
       },
-      "Acronyms": [
-        "金錢的慾",
-        "MACX"
-      ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 13,
       "Team1Acronym": "DUCK",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "MEWZ",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2849485
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4338125
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3529084
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3186236
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 263900
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3172579
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3507814
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3345667
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3774322
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3964749
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4816704
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4276882
+        }
+      ],
+      "Current": false,
       "Date": "2025-07-12T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 570,
         "Y": 1290
       },
-      "Acronyms": [
-        "DUCK",
-        "MEWZ"
-      ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -154,16 +295,12 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-13T14:00:00+02:00",
+      "Date": "2025-07-13T18:45:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 570,
         "Y": 1490
       },
-      "Acronyms": [
-        "YOUN",
-        "TFGE"
-      ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
@@ -183,17 +320,13 @@
         "X": 570,
         "Y": 1690
       },
-      "Acronyms": [
-        "MEOW",
-        "WHAT"
-      ],
       "PointsToWin": 5
     },
     {
       "ID": 2,
       "Team1Acronym": "",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "JOHN",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -205,17 +338,13 @@
         "X": 820,
         "Y": 390
       },
-      "Acronyms": [
-        "",
-        ""
-      ],
       "PointsToWin": 6
     },
     {
       "ID": 6,
       "Team1Acronym": "POST",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "DRAK",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -227,17 +356,13 @@
         "X": 820,
         "Y": 790
       },
-      "Acronyms": [
-        "POST",
-        ""
-      ],
       "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 10,
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "DUCK",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -249,9 +374,6 @@
         "X": 820,
         "Y": 1190
       },
-      "Acronyms": [
-        ""
-      ],
       "PointsToWin": 6
     },
     {
@@ -270,11 +392,6 @@
         "X": 820,
         "Y": 1590
       },
-      "Acronyms": [
-        "",
-        "MEOW"
-      ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -291,7 +408,6 @@
         "X": 1320,
         "Y": 570
       },
-      "Acronyms": [],
       "PointsToWin": 6
     },
     {
@@ -308,7 +424,6 @@
         "X": 1320,
         "Y": 1390
       },
-      "Acronyms": [],
       "PointsToWin": 6
     },
     {
@@ -325,7 +440,6 @@
         "X": 1810,
         "Y": 990
       },
-      "Acronyms": [],
       "PointsToWin": 7
     },
     {
@@ -343,14 +457,11 @@
         "X": 2570,
         "Y": 1210
       },
-      "Acronyms": [
-        ""
-      ],
       "PointsToWin": 7
     },
     {
       "ID": 20,
-      "Team1Acronym": "",
+      "Team1Acronym": "SPOR",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -363,15 +474,14 @@
         "X": 820,
         "Y": 1980
       },
-      "Acronyms": [
-        ""
-      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 23,
       "Team1Acronym": "GIMM",
       "Team1Score": null,
+      "Team2Acronym": "PARA",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -383,15 +493,12 @@
         "X": 820,
         "Y": 2080
       },
-      "Acronyms": [
-        "GIMM"
-      ],
       "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 28,
-      "Team1Acronym": "",
+      "Team1Acronym": "MEWZ",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -404,9 +511,7 @@
         "X": 820,
         "Y": 2180
       },
-      "Acronyms": [
-        ""
-      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -425,11 +530,6 @@
         "X": 820,
         "Y": 2280
       },
-      "Acronyms": [
-        "",
-        "WHAT"
-      ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -446,7 +546,6 @@
         "X": 1070,
         "Y": 1950
       },
-      "Acronyms": [],
       "PointsToWin": 6
     },
     {
@@ -463,7 +562,6 @@
         "X": 1070,
         "Y": 2050
       },
-      "Acronyms": [],
       "PointsToWin": 6
     },
     {
@@ -480,7 +578,6 @@
         "X": 1070,
         "Y": 2150
       },
-      "Acronyms": [],
       "PointsToWin": 6
     },
     {
@@ -497,7 +594,6 @@
         "X": 1070,
         "Y": 2250
       },
-      "Acronyms": [],
       "PointsToWin": 6
     },
     {
@@ -516,10 +612,6 @@
         "X": 1320,
         "Y": 2000
       },
-      "Acronyms": [
-        "",
-        ""
-      ],
       "PointsToWin": 6
     },
     {
@@ -537,9 +629,6 @@
         "X": 1320,
         "Y": 2200
       },
-      "Acronyms": [
-        ""
-      ],
       "PointsToWin": 6
     },
     {
@@ -556,7 +645,6 @@
         "X": 1570,
         "Y": 1970
       },
-      "Acronyms": [],
       "PointsToWin": 7
     },
     {
@@ -573,7 +661,6 @@
         "X": 1570,
         "Y": 2170
       },
-      "Acronyms": [],
       "PointsToWin": 7
     },
     {
@@ -591,9 +678,6 @@
         "X": 1820,
         "Y": 2080
       },
-      "Acronyms": [
-        ""
-      ],
       "PointsToWin": 7
     },
     {
@@ -610,7 +694,6 @@
         "X": 2040,
         "Y": 2080
       },
-      "Acronyms": [],
       "PointsToWin": 7
     },
     {
@@ -627,7 +710,6 @@
         "X": 2800,
         "Y": 1210
       },
-      "Acronyms": [],
       "PointsToWin": 7
     }
   ],
