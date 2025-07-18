@@ -155,14 +155,14 @@
     {
       "ID": 2,
       "Team1Acronym": "CRAZ",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "JOHN",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2025-08-31T01:04:32+02:00",
+      "Current": false,
+      "Date": "2025-07-19T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 820,
@@ -181,7 +181,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-08-31T01:04:32+02:00",
+      "Date": "2025-08-20T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 820,
@@ -200,7 +200,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-08-31T01:04:32+02:00",
+      "Date": "2025-07-20T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 820,
@@ -219,7 +219,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-08-31T01:04:32+02:00",
+      "Date": "2025-07-20T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 820,
@@ -303,7 +303,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-08-31T01:04:32+02:00",
+      "Date": "2025-07-19T19:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 820,
@@ -315,14 +315,14 @@
     {
       "ID": 23,
       "Team1Acronym": "GIMM",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "PARA",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-08-31T01:04:32+02:00",
+      "Current": true,
+      "Date": "2025-07-19T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 820,
@@ -333,15 +333,15 @@
     },
     {
       "ID": 28,
-      "Team1Acronym": "MEWZ",
+      "Team1Acronym": "金錢的慾",
       "Team1Score": null,
-      "Team2Acronym": "金錢的慾",
+      "Team2Acronym": "MEWZ",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-08-31T01:04:32+02:00",
+      "Date": "2025-07-20T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 820,
@@ -360,7 +360,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-08-31T01:04:32+02:00",
+      "Date": "2025-07-20T19:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 820,
@@ -1990,6 +1990,8 @@
               "BackgroundFile": ""
             },
             "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
               "OverallDifficulty": 10.0,
               "ApproachRate": 10.0,
               "SliderMultiplier": 1.4,
